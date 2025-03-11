@@ -52,6 +52,7 @@ City Health Insurance wants to grow their case management engagement. They have 
 •	Members that are sourced from HRS have a higher chance in engaging in case management services.
 
 •	The average age for case management engagement is 42, however the age group with the most engagement is 51 an over. These members are likely to have an unspecified medical diagnosis. 
+
 •	Majority of outreaches  to members will result in a voicemail.
 
 •	January produces the most successful outreaches with Thursday and Friday being the most successful days. This being due to more outreaches being completed on Thursdays and Fridays.
