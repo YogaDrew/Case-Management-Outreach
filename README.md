@@ -46,6 +46,19 @@ City Health Insurance wants to grow their case management engagement. They have 
 ## Dashboard
 ![CM Outreach Dashboard](https://github.com/user-attachments/assets/3e244f6e-cde8-41a6-9170-9b8177572ad1)
 
+## Project Insights
+•	Outreaches to members result in a 22% success rate for engagement in case management.
+
+•	Members that are sourced from HRS have a higher chance in engaging in case management services.
+
+•	The average age for case management engagement is 42, however the age group with the most engagement is 51 an over. These members are likely to have an unspecified medical diagnosis. 
+•	Majority of outreaches  to members will result in a voicemail.
+
+•	January produces the most successful outreaches with Thursday and Friday being the most successful days. This being due to more outreaches being completed on Thursdays and Fridays.
+
+## Conclusion
+When looking to successfully engage a member in case management, a case manager is likely to have the most success outreaching a member over the age of 51 with no specified medical diagnosis from the HRS call source. Although the data shows high success at the end of the week, it can be concluded that this is due to higher call volume. It is possible a case manager may have equal chances of success any day of the week.  To increase case management engagement, case managers will need to increase call volume and recruit more members within the previously listed demographic. 
+
 
 
 
